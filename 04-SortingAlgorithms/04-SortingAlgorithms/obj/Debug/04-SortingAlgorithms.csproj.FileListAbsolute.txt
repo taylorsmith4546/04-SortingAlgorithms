@@ -1,0 +1,6 @@
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\bin\Debug\04-SortingAlgorithms.exe.config
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\obj\Debug\04-SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\bin\Debug\04-SortingAlgorithms.exe
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\bin\Debug\04-SortingAlgorithms.pdb
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\obj\Debug\04-SortingAlgorithms.exe
+C:\Dev\GitHub\SortingAlgorithms\04-SortingAlgorithms\04-SortingAlgorithms\obj\Debug\04-SortingAlgorithms.pdb
